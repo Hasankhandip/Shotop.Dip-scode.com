@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.all-section{
+    overflow: hidden !important;
+}
 .header-section {
 	background: #010101;
 	padding: 15px 0 10px 0;
