@@ -590,6 +590,12 @@
     .wwd-btn-bg {
         margin-left: 0;
     }
+    .artcl{
+        width:65%;
+    }
+    .artcl-1{
+        width:35%;
+    }
 }
 @media(max-width:385px){
     .header-section{
@@ -599,6 +605,8 @@
         margin-right: 6px;
     }
     .ab-btn a {
-        font-size: 9px;
+        font-size: 10px;
+        padding: 13px 12px;
+        margin-right: 20px;
     }
 }
