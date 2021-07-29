@@ -435,14 +435,8 @@
     .client-btn {
         right: 27px;
     }
-    .artcl{
-        width:70%;
-    }
-    .artcl-1{
-        width:30%;
-    }
     .as h1 {
-        font-size: 30px !important;
+        font-size: 35px !important;
     }
     .ab-btn a {
         font-size: 10px;
@@ -501,6 +495,9 @@
     }
     .m-ft-img img {
         width: 100%;
+    }
+    .article-btn {
+        display: none;
     }
 }
 @media(max-width:400px){
@@ -590,19 +587,14 @@
     .wwd-btn-bg {
         margin-left: 0;
     }
-    .artcl{
-        width:65%;
-    }
-    .artcl-1{
-        width:35%;
-    }
 }
 @media(max-width:385px){
     .header-section{
         max-width:380px;
     }
-    .port-nav ul li{
+    .port-nav ul li {
         margin-right: 6px;
+        padding: 10px 0 0 0;
     }
     .ab-btn a {
         font-size: 10px;
