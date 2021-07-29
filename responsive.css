@@ -325,12 +325,12 @@
         position: inherit;
     }
     .check {
-        right: 45px;
-        top: 23px;
+        right: 35px;
+        top: 25px;
     }
     .three-dots i {
-        right: 45px;
-        top: 20px;
+        right: 35px;
+        top: 25px;
     }
     .menu-bar {
         height: 0;
@@ -338,8 +338,8 @@
     .search-bar i {
         font-size: 24px;
         position: absolute;
-        right: 90px;
-        top: 27px;
+        right: 82px;
+        top: 30px;
     }
     .hdr-nav .check:checked ~ ul {
         width: 55%;
@@ -597,5 +597,8 @@
     }
     .port-nav ul li{
         margin-right: 6px;
+    }
+    .ab-btn a {
+        font-size: 9px;
     }
 }
