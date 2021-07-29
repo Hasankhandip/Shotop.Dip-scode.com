@@ -504,6 +504,9 @@
     }
 }
 @media(max-width:400px){
+    .header-section {
+	max-width: 380px;
+}
     .hdr-nav .check:checked ~ ul {
         width: 60%;
     }
