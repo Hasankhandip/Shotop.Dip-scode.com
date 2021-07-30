@@ -409,9 +409,8 @@
     .team-img img {
         width: 100%;
         height: 100%;
-    }
-    .team-img {
-        padding-right: 0 !important;
+    }.team-img {
+        padding: 0 25px !important;
     }
     .shop-text {
         margin-top: 0;
@@ -589,9 +588,6 @@
     }
 }
 @media(max-width:385px){
-    .header-section{
-        max-width:380px;
-    }
     .port-nav ul li {
         margin-right: 6px;
         padding: 10px 0 0 0;
