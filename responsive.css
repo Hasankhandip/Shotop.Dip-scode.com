@@ -532,9 +532,6 @@
     .ab-top {
         padding-left: 20px;
     }
-    .ab-mid {
-        padding-left: 20px;
-    }
     .ar-item {
         padding: 0 20px;
     }
@@ -543,6 +540,7 @@
 @media(max-width:400px){
     .hdr-nav .check:checked ~ ul {
         width: 70%;
+        padding-top: 20px;
     }
     .banner-bg {
         height: 330px;
@@ -609,7 +607,7 @@
         font-size: 28px !important;
     }
     .ft-call a {
-        font-size: 24px;
+        font-size: 21px;
     }
     .ft-mdl-hdr {
         margin-right: 90px;
