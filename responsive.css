@@ -240,6 +240,7 @@
     }
     .ab-left {
         margin-bottom: 60px;
+        padding: 0 0 0 20px;
     }
     .about-section {
         height:845px;
@@ -250,6 +251,7 @@
     .ab-img {
         margin-left: 0;
         display: flex;
+        justify-content: center;
     }
     .ab-fly-1 {
         position: inherit;
@@ -389,7 +391,8 @@
         font-size: 24px;
     }
     .wwd-details {
-        margin-top:0;
+        margin-top: 0;
+        padding-left: 20px;
     }
     .wwd-btn {
         margin-top: 20px;
@@ -440,6 +443,7 @@
     .ab-btn a {
         font-size: 10px;
         padding: 13px 12px;
+        margin-right: 20px;
     }
     .ft-sec {
         padding-top: 60px;
@@ -447,6 +451,7 @@
     }
     .ft-call {
         position: inherit !important;
+        padding: 0 20px;
     }
     .ft-call a {
         font-size: 40px;
@@ -457,6 +462,7 @@
     }
     .ft-img {
         margin-bottom: 40px;
+        padding: 0 20px;
     }
     .footer-mail {
         margin: 60px 30px 40px 30px;
@@ -498,6 +504,41 @@
     .article-btn {
         display: none;
     }
+    .port-top {
+        padding-left: 20px;
+    }
+    .port-hdr {
+        padding-left: 20px;
+    }
+    .hdr-nav {
+        padding-left: 20px;
+    }
+    .port-img {
+        padding: 0 20px;
+    }
+    .contact-input {
+        padding: 0 20px;
+    }
+    .shop-section {
+        margin-top: 60px;
+        padding: 0 20px;
+    }
+    .client-test {
+        margin: 80px 20px 0px 20px;
+    }
+    .client-text {
+        padding: 0 25px;
+    }
+    .ab-top {
+        padding-left: 20px;
+    }
+    .ab-mid {
+        padding-left: 20px;
+    }
+    .ar-item {
+        padding: 0 20px;
+    }
+
 }
 @media(max-width:400px){
     .hdr-nav .check:checked ~ ul {
@@ -585,6 +626,12 @@
     }
     .wwd-btn-bg {
         margin-left: 0;
+    }
+    .ar-icon ul li {
+        margin-right: 7px;
+    }
+    .ar-icon ul li a {
+        font-size: 15px;
     }
 }
 @media(max-width:385px){
