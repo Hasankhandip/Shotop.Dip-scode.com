@@ -55,12 +55,12 @@
 .actv-nav i{
     color: #d38e26 !important;
 }
-.menu-bar{
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 4px;
+.menu-bar {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 4px;
 }
 .three-dot {
 	margin-right: 25px;
