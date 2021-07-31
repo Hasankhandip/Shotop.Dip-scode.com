@@ -437,6 +437,9 @@
     .client-btn {
         right: 27px;
     }
+    .ab-mid {
+        padding-left: 20px;
+    }
     .as h1 {
         font-size: 35px !important;
     }
